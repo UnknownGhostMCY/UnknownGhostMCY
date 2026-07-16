@@ -28,4 +28,4 @@ Into blue teaming, cybersecurity, or swapping stories about crazy phishing email
 
 ### 📊 GitHub Stats:
 
-![Fayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=fayazismailsoc98&show_icons=true&theme=radical)
+![Fayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnknownGhostMCY&show_icons=true&theme=radical)
